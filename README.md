@@ -1,4 +1,4 @@
-# Multi-Point Auto Clicker
+# Clicky 🖱️
 
 A small desktop auto clicker that clicks a list of screen positions in order and repeats the sequence. It fits
 repetitive flows like these: click a box in an app, press "Yes" in the pop-up, then press "Save" in the next one.
