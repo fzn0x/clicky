@@ -32,8 +32,12 @@ I hate downloading auto clickers from Sourceforge so I made this and also they d
 ## Install and run
 
 ```sh
+# clone the repository
+git clone https://github.com/fzn0x/clicky
+cd clicky
+
 pip install pynput pillow
-python auto_clicker.py
+python main.py
 ```
 
 On Windows you can also double-click `auto_clicker.py`. If a library is missing, the app tells you what to install.
